@@ -1,0 +1,65 @@
+*{
+    font-family: "Lucida Grande";
+    box-sizing: border-box;
+   }
+   
+   a{
+    text-decoration: none;
+    padding: 3px;
+   }
+   
+
+/* dropdown */
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    height: 100vh; 
+    background-color: #f1f1f1;
+  }
+
+input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+  }
+
+label {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+  }
+
+select {
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+
+body{
+
+}
+
+/* table tts */
+table {
+	text-align: center;
+}
+
+td {
+	width: 40px;
+	height: 40px;
+}
+
+td input {
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	font-size: 14px;
+	text-transform: uppercase;
+}
+
+.block {
+	background-color: #000;
+}
